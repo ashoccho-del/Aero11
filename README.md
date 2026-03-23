@@ -8,7 +8,7 @@ If you modify any system files I highly recommend keeping a backup of ALL instru
 
 # Thumbnail
 <img width="1366" height="768" alt="aero" src="https://github.com/user-attachments/assets/43f46d25-dbce-4198-b36a-1aad28e11ef0" />
-Here's a Windows 7 Theme in Windows 11.
+Here's a Windows 7 Theme in Windows 11 25H2.
 
 # Installation
 This section assumes you have already patched your system to allow third party themes. If you have not, please refer to guides on how to do so. You will need to use a tool such as UltraUXThemePatcher or SecureUxTheme.
